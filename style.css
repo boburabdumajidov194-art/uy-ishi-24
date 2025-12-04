@@ -1,0 +1,119 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.header__logo{
+    width: 150px;
+    height: 38px;
+
+}
+.header__but{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(255, 100, 44);
+    border-radius: 5px;
+    border-color: rgb(255, 100, 44);
+}
+.header__card{
+    display: flex;
+    gap: 100px;
+}
+h1{
+    width: 530px;
+    height: 156px;
+    font-size: 66px;
+}
+.p1{
+    width: 400px;
+}
+.main__logo{
+    width: 728px;
+    height: 681px;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.main__logo1{
+    width: 626px;
+    height: 723px;
+}
+h2{
+    font-size: 40px;
+    width: 384px;
+    height: 100px;
+}
+.main__but{
+    width: 176px;
+    height: 58px;
+    background-color: rgb(255, 100, 44);
+    border: 1px solid rgb(255, 100, 44);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    color: white;
+    font-size: 20px;
+}
+.main__card1{
+   width: 449px;
+   height: 497px;
+}
+.main__logo2{
+    width: 361px;
+    height: 299px;
+}
+.main__card2{
+    display: flex;
+   gap: 50px;
+   margin-left: 150px;
+}
+.but1{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: 1px solid rgb(255, 100, 44);
+    margin-left: 50px;
+}
+.box{
+    width: 538px;
+    height: 130px;
+    margin-top: 300px;
+    display: flex;
+    gap: 100px;
+    margin-left: 170px;
+}
+.l3{
+    width: 600px;
+    height: 480px;
+
+}
+footer{
+    width: 1170px;
+    height: 312px;
+    background-color: rgb(255, 100, 44);
+    border-radius: 10px;
+    margin-left: 130px;
+}
+input{
+    width: 838px;
+    height: 78px;
+    border-radius: 50px;
+    border: solid 1px white;
+    padding-left: 50px;
+    margin-left: 150px;
+}
+.butt{
+    width: 191px;
+    height: 58px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: rgb(255, 100, 44);
+    color: white;
+    margin-left: 830px;
+   
+}
+.pp:hover{
+    color: rgb(255, 100, 44);
+}
